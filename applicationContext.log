@@ -1,0 +1,17 @@
+   ______________________________
+ / \                             \.
+|   | This log file was created  |.
+ \_ | by the Wizard, it contains |.
+    | the configuration data     |.
+    | used for the application   |.
+    | generation.                |.
+    |                            |.
+    | It shouldn't be edited     |.
+    | manually, changing it      |.
+    | won't affect the generated |.
+    | sample.                    |.
+    |   _________________________|___
+    |  /                            /.
+    \_/____________________________/.
+
+{"projectName":"sampleAndroidProject","projectLocation":"C:\\Users\\i320877\\AndroidStudioProjects\\sampleAndroidProject","projectNamespace":"com.company.sampleandroidproject","serviceURL":"https://d0f5535atrial-dev-com-sap-android-wizard-sample.cfapps.eu10.hana.ondemand.com/","serverURL":"https://mobile-service-cockpit-web.cfapps.eu10.hana.ondemand.com/cockpit/v1/org/4fadbe5e-5d24-453b-abfc-7c2024336727/space/afc77d73-0034-458f-8828-df0c509513d8/","applicationID":"com.sap.android.wizard.sample","applicationSecurityConfig":"BASIC","jsonPath":null,"senderID":null,"serverKey":null,"isLogEnabled":false,"isLogUploadEnabled":false,"SAPSDKLocation":"MAVEN_LOCAL","useDiscoveryService":false,"generateJavaCode":true,"generateOnlineApp":true,"isUsageIncluded":false}
